@@ -1,11 +1,22 @@
+/*
+File:           laponia_battle.cpp
+Last changed:   14/06/2023 14:00
+Purpose:        Console-based matrix war game         
+Authors:        Carlos Henrique Racobaldo Luz Montes 
+                Fernando Antônio Marques Schettini
+                Francielle Andrade Cardoso
+                João Vitor Mendes Pinto dos Santos  
+Usage: 
+  HowToCompile:   gcc laponia_battle.cpp -o laponia_battle
+  HowToExecute:   ./laponia_battle           
+*/
+
 #include <stdio.h>
 #include <math.h>
 #include <string.h>
 #include <stdlib.h>
 #include <ctime>
 #include <locale.h>
-
-// Carlos Henrique Racobaldo Luz Montes, Fernando Antônio Marques Schettini, Francielle Andrade Cardoso, João Vitor Mendes Pinto dos Santos
 
 int main(int argc, char ** argv) {
   

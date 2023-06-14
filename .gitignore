@@ -1,0 +1,25 @@
+# Object files
+*.o
+
+# Executable files
+a.out
+
+# IDE-generated files
+*.exe
+*.exe.stackdump
+
+# CMake-generated files
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# Visual Studio Code files
+.vscode/
+
+# Backup files
+*~
+*.bak
+
+# Output directory
+bin/
