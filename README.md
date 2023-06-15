@@ -53,7 +53,7 @@ Make sure you have all dependencies before running Laponia Battle.
 
 ## How to run it 🏃:
 
-First, clone this repository. After that, compile "laponia_battle.cpp" with the following command:
+First, clone this repository. After that, compile ```laponia_battle.cpp``` with the following command:
 
     gcc laponia_battle.cpp -o laponia_battle
 
