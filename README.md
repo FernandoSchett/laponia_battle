@@ -7,10 +7,10 @@
 </div>
 
 ## Developed by 💻:
-- [Fernand Schettini](https://github.com/FernandoSchett)
-- [Carlos Racobaldo](https://github.com/CarlosRacobaldo1)
-- [Francielle Cardoso]()
-- [João Vitor Mendes](https://github.com/juauzitor)
+- [Fernand Schettini](https://github.com/FernandoSchett).
+- [Carlos Racobaldo](https://github.com/CarlosRacobaldo1).
+- [Francielle Cardoso]().
+- [João Vitor Mendes](https://github.com/juauzitor).
 
 ## Special thanks to 🥰:
 - [Marcos Lapa](https://github.com/marcoslapa), our supervising professor, your experience and knowledge have been invaluable to our progress.
@@ -78,7 +78,7 @@ Basically everyone ocasionally just hang out at discord to code and have fun :).
 
 ### Tools Used 🛠️: 
 
-- Dev C++.
+- [Dev C++](https://www.bloodshed.net).
 
 ## How to contribute 🫂:
 
