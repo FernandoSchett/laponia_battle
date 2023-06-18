@@ -46,8 +46,8 @@ North Special soldier "#": The # soldier can shoot in a straight line, eliminati
 
 Laponia Battle dependencies are the standart C and C++ libraries and: 
 
-- ctime 
-- locale.h
+- ```<ctime>```.
+- ```<locale.h>.
 
 Make sure you have all dependencies before running Laponia Battle.
 
